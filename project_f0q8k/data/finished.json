@@ -1,0 +1,37 @@
+{"listOfEntry": [
+    {
+        "path": "./data/imgs/Sat Nov 18 183340 PST 2023.jpg",
+        "dateCreated": "Sat Nov 18 18:33:40 PST 2023",
+        "comments": "good\n太意识流了\n但是音乐和作画太屌了",
+        "totalEpisodes": 12,
+        "dateStarted": "Sat Nov 18 18:33:40 PST 2023",
+        "dateFinished": "Sat Nov 18 18:33:40 PST 2023",
+        "rating": 9,
+        "description": "Students go to another world",
+        "title": "Sonny Boy",
+        "currentEpisode": 12,
+        "tags": [
+            "original",
+            "TV"
+        ],
+        "status": 3
+    },
+    {
+        "path": "./data/imgs/Sat Nov 18 184348 PST 2023.jpg",
+        "dateCreated": "Sat Nov 18 18:43:48 PST 2023",
+        "comments": "Next year season 2",
+        "totalEpisodes": 9,
+        "dateStarted": "Sat Nov 18 18:43:48 PST 2023",
+        "dateFinished": "Sat Nov 18 18:43:48 PST 2023",
+        "rating": 10,
+        "description": "league of legends anime",
+        "title": "Arcane",
+        "currentEpisode": 9,
+        "tags": [
+            "3D",
+            "Netflix",
+            "original"
+        ],
+        "status": 3
+    }
+]}

@@ -1,0 +1,42 @@
+{"listOfEntry": [
+    {
+        "path": "",
+        "dateCreated": "Sat Nov 25 13:44:04 PST 2023",
+        "totalEpisodes": 18,
+        "rating": -1,
+        "description": "abc",
+        "title": "no1",
+        "currentEpisode": 0,
+        "tags": [
+            "tag1",
+            "tag2"
+        ],
+        "status": 1
+    },
+    {
+        "path": "",
+        "dateCreated": "Sat Nov 25 13:44:04 PST 2023",
+        "totalEpisodes": 2,
+        "dateStarted": "Sat Nov 25 13:44:04 PST 2023",
+        "rating": -1,
+        "description": "abcde",
+        "title": "no2",
+        "currentEpisode": 0,
+        "tags": ["tag2"],
+        "status": 2
+    },
+    {
+        "path": "imagePath",
+        "dateCreated": "Sat Nov 25 13:44:04 PST 2023",
+        "comments": "test",
+        "totalEpisodes": 10,
+        "dateStarted": "Sat Nov 25 13:44:04 PST 2023",
+        "dateFinished": "Sat Nov 25 13:44:04 PST 2023",
+        "rating": 9,
+        "description": "finished",
+        "title": "no3",
+        "currentEpisode": 10,
+        "tags": ["tag3"],
+        "status": 3
+    }
+]}
